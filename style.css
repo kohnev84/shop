@@ -1,0 +1,128 @@
+
+.Panel{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue;
+    border-radius: 10px;
+}
+.cards{
+background-color:gray;
+width: 150px;
+height: 100px;
+border-radius: 10px;
+padding: 10px;
+box-shadow: aquamarine;
+margin-right: 5px;
+}
+.container {
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color:blue;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 10px;
+}
+.nav-start{
+    display: flex;
+    justify-content: flex-start;
+    list-style-type: none ;
+    
+    
+    }
+    .nav-end{
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none ;
+    
+    }
+    .nav-span{
+        background-color:lightblue;
+        
+    }
+    .container2{
+        display: flex;
+        justify-content: space-between;
+        background-color: lightblue;
+        border-radius: 10px;
+    }
+    .RTX-3080ti{
+        background-image: url(./img/anons-geforce-rtx-3000-mozhet-sostojatsja-31-avgusta_15970994651488576872.jpg);
+        background-size: cover;
+        background-position:10% 35%;
+    }
+    .RTX-3080{
+        background-image: url(./img/2021-08-04-16-21-47.jpg);
+        background-size: cover;
+        background-position:10% 25%; 
+    }
+    .RTX-3070ti{
+        background-image: url(./img/2021-08-04-16-23-19.jpg);
+        background-size: cover;
+        background-position:10% 25%;
+    }
+    .RTX-3070ti{
+        background-image: url(./img/2021-08-04-16-23-19.jpg);
+        background-size: cover;
+        background-position:10% 25%;
+    }
+    .RTX-3070{
+        background-image: url(./img/2021-08-04-16-22-53.jpg);
+        background-size: cover;
+        background-position:10% 25%;
+    }
+    .RTX-3060ti{
+        background-image: url(./img/2021-08-04-16-22-03.jpg);
+        background-size: cover;
+        background-position:10% 25%;
+    }
+    .RTX-3060{
+        background-image: url(./img/2021-08-04-16-23-40.jpg);
+        background-size: cover;
+        background-position:10% 25%;
+    }
+    .RTX-2080{
+        background-image: url(./img/2021-08-04-16-24-37.jpg);
+        background-size: cover;
+        background-position:10% 25%;    
+    }
+    .RTX-2080super{
+        background-image: url(./img/2021-08-04-16-24-57.jpg);
+        background-size: cover;
+        background-position:10% 25%;   
+    }
+    .RTX-2080ti{
+        background-image: url(./img/2021-08-04-16-24-10.jpg);
+        background-size: cover;
+        background-position:10% 25%; 
+    }
+    .add{
+        background-color: blue;
+        color: white;
+        border-radius: 10px;
+        box-shadow: blue 0 0 10px;
+        opacity: 0.75;
+        }
+        .top-space{
+            margin-top: 60px;
+        }
+        li{
+        margin-left: 10px;
+        }
+        li:hover{
+        color: red;
+        
+        }
+        .but2{
+        background-color: blue;
+        border-radius: 10px;
+        }
+        .but_del{
+        background-color: blue;
+        border-radius: 10px;
+        }
+        
